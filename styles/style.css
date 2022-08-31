@@ -1,0 +1,85 @@
+body {
+  background-color: #acabab;
+  padding-top: 1%;
+  margin-left: 25%;
+}
+main {
+  background-color: white;
+  width: 70%;
+  /* position: absolute;
+  top: 90%;
+  left: 50%;
+  transform: translate(-50%, -50%); */
+}
+.top {
+  background-color: #ffffff;
+  text-align: center;
+  color: #78363f;
+  margin-top: 5%;
+}
+.top h1 {
+  padding-top: 5%;
+}
+.first {
+  color: #78363f;
+  margin-top: 5%;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+.lable1,
+.input1 {
+  font-size: x-large;
+  margin-left: 15%;
+}
+.lable1 {
+  padding: 5% 0;
+  font-weight: bold;
+}
+.input1 {
+  width: 80%;
+  height: 5%;
+  padding: 1px 2px;
+}
+.p1 {
+  font-size: small;
+  color: #acabab;
+  margin-left: 15%;
+}
+.right {
+  float: right;
+  width: 50%;
+}
+
+.left {
+  float: left;
+  width: 50%;
+}
+
+.second {
+  margin-left: 7%;
+  color: #9f515a;
+  font-size: larger;
+}
+.p2 {
+  font-weight: bold;
+  color: #78363f;
+  font-size: x-large;
+}
+input[type="radio"] {
+  margin: 3%;
+  margin-left: 0;
+}
+button {
+  margin-left: 45%;
+  font-size: larger;
+  width: 15%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  background-image: linear-gradient(gray, gray, white);
+}
+.survey {
+  background-color: #e5e4e5;
+}
+textarea {
+  max-width: 90%;
+}
